@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MEARN projects at ITI<br>🌱 I’m currently learning MEARN stack<br>💬 Ask me about any thing<br>⚡ Fun fact  I talk to my code more than I talk to people
+🔭 Completed backend-focused Node.js projects as part of my training at ITI<br>🌱  Advancing my expertise in API development and backend system design.<br>💬 Ask me about any thing<br>⚡ Fun fact  I talk to my code more than I talk to people
 
 
 ## 🌐 Socials:
